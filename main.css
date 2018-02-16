@@ -43,6 +43,7 @@ div {
 .header-content-info a {
   padding-right: 20px;
   color:#CC9661;
+  text-decoration: none;
 }
 
 .header #header-info {
